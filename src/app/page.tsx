@@ -49,7 +49,7 @@ export default function LandingPage() {
             { text: "Call Now: (941) 809-9115", href: "tel:(941)809-9115" },
           ]}
           buttonAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/young-woman-traveling-without-covid_23-2149077831.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773165928729-cclplz2t.jpg"
           imageAlt="residential pool cage repair Florida"
           mediaAnimation="blur-reveal"
           imagePosition="right"
@@ -90,7 +90,7 @@ export default function LandingPage() {
           ]}
           mediaAnimation="slide-up"
           metricsAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/beautiful-travel-beauty-chair-hotel_1203-5140.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773165043133-cjcts7wr.jpg"
           imageAlt="pool cage rescreening project"
           useInvertedBackground={false}
         />
