@@ -27,6 +27,7 @@ export default function LandingPage() {
       <div id="nav" data-section="nav">
         <NavbarStyleApple
           brandName="American Screen Hero"
+          brandLogo="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773116226777-zc7bjxyf.jpg"
           navItems={[
             { name: "Services", id: "services" },
             { name: "Why Us", id: "about" },
