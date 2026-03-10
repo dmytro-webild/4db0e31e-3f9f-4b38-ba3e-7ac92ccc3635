@@ -104,16 +104,16 @@ export default function LandingPage() {
           tagAnimation="slide-up"
           metrics={[
             {
-              id: "1",              value: "Pool Cage",              title: "Complete Rescreening",              description: "Full panel replacement with new screening material",              imageSrc: "http://img.b2bpic.net/free-photo/pool-tennis-court_23-2147664474.jpg",              imageAlt: "completed pool cage project"
+              id: "1",              value: "Pool Cage",              title: "Complete Rescreening",              description: "Full panel replacement with new screening material",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773089720919-hem8b6pv.png",              imageAlt: "completed pool cage project"
             },
             {
-              id: "2",              value: "Lanai Screen",              title: "Damage Repair",              description: "Professional restoration and reinforcement",              imageSrc: "http://img.b2bpic.net/free-photo/pool-umbrellas-hammocks-seen-from_1203-296.jpg",              imageAlt: "renovated lanai screening area"
+              id: "2",              value: "Lanai Screen",              title: "Damage Repair",              description: "Professional restoration and reinforcement",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773166333865-qv7biwyu.jpg",              imageAlt: "renovated lanai screening area"
             },
             {
-              id: "3",              value: "Storm Prep",              title: "Hurricane Screening",              description: "Installation of protective screen systems",              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-seashore-with-breathtaking-skies_181624-373.jpg",              imageAlt: "hurricane screen installation Florida"
+              id: "3",              value: "Storm Prep",              title: "Hurricane Screening",              description: "Installation of protective screen systems",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773089720919-8mmoxn7n.png",              imageAlt: "hurricane screen installation Florida"
             },
             {
-              id: "4",              value: "Patio Screen",              title: "Door Repair",              description: "Hinge replacement and frame restoration",              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-using-laptop-outdoors_23-2150747666.jpg",              imageAlt: "lanai screen replacement project"
+              id: "4",              value: "Patio Screen",              title: "Door Repair",              description: "Hinge replacement and frame restoration",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773166248874-ivpdjy3u.jpg",              imageAlt: "lanai screen replacement project"
             },
           ]}
           animationType="slide-up"
