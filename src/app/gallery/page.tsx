@@ -27,7 +27,7 @@ export default function GalleryPage() {
             { name: "Why Us", id: "about" },
             { name: "Gallery", id: "/gallery" },
             { name: "Testimonials", id: "testimonials" },
-            { name: "Contact", id: "contact" },
+            { name: "Contact", id: "/contact" },
           ]}
         />
       </div>
@@ -55,7 +55,7 @@ export default function GalleryPage() {
             }
           ]}
           buttons={[
-            { text: "Get a Free Estimate", href: "/#contact" },
+            { text: "Get a Free Estimate", href: "/contact" },
             { text: "Call Now: (941) 809-9115", href: "tel:(941)809-9115" },
           ]}
           buttonAnimation="slide-up"
@@ -68,18 +68,18 @@ export default function GalleryPage() {
           columns={[
             {
               title: "Services",              items: [
-                { label: "Pool Cage Repair", href: "/#services" },
-                { label: "Rescreening", href: "/#services" },
-                { label: "Lanai Screen", href: "/#services" },
-                { label: "Hurricane Screens", href: "/#services" },
+                { label: "Pool Cage Repair", href: "#services" },
+                { label: "Rescreening", href: "#services" },
+                { label: "Lanai Screen", href: "#services" },
+                { label: "Hurricane Screens", href: "#services" },
               ],
             },
             {
               title: "Company",              items: [
-                { label: "About Us", href: "/#about" },
+                { label: "About Us", href: "#about" },
                 { label: "Projects", href: "/gallery" },
-                { label: "Testimonials", href: "/#testimonials" },
-                { label: "Contact", href: "/#contact" },
+                { label: "Testimonials", href: "#testimonials" },
+                { label: "Contact", href: "/contact" },
               ],
             },
             {
