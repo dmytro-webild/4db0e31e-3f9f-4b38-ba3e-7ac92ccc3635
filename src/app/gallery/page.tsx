@@ -39,19 +39,19 @@ export default function GalleryPage() {
           background={{ variant: "plain" }}
           mediaItems={[
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773089720919-hem8b6pv.png",              imageAlt: "pool cage complete rescreening project"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773089720919-hem8b6pv.png?_wi=1",              imageAlt: "pool cage complete rescreening project"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773166333865-qv7biwyu.jpg",              imageAlt: "lanai screen damage repair and restoration"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773166333865-qv7biwyu.jpg?_wi=1",              imageAlt: "lanai screen damage repair and restoration"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773089720919-8mmoxn7n.png",              imageAlt: "hurricane screen installation florida"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773089720919-8mmoxn7n.png?_wi=1",              imageAlt: "hurricane screen installation florida"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773166248874-ivpdjy3u.jpg",              imageAlt: "patio screen door repair and frame restoration"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773166248874-ivpdjy3u.jpg?_wi=1",              imageAlt: "patio screen door repair and frame restoration"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773165043133-cjcts7wr.jpg",              imageAlt: "pool cage rescreening project completed"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773165043133-cjcts7wr.jpg?_wi=1",              imageAlt: "pool cage rescreening project completed"
             }
           ]}
           buttons={[

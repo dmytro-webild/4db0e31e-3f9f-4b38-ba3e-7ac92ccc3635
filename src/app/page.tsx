@@ -90,7 +90,7 @@ export default function LandingPage() {
           ]}
           mediaAnimation="slide-up"
           metricsAnimation="slide-up"
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773165043133-cjcts7wr.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773165043133-cjcts7wr.jpg?_wi=2"
           imageAlt="pool cage rescreening project"
           useInvertedBackground={false}
         />
@@ -104,16 +104,16 @@ export default function LandingPage() {
           tagAnimation="slide-up"
           metrics={[
             {
-              id: "1",              value: "Pool Cage",              title: "Complete Rescreening",              description: "Full panel replacement with new screening material",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773089720919-hem8b6pv.png",              imageAlt: "completed pool cage project"
+              id: "1",              value: "Pool Cage",              title: "Complete Rescreening",              description: "Full panel replacement with new screening material",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773089720919-hem8b6pv.png?_wi=2",              imageAlt: "completed pool cage project"
             },
             {
-              id: "2",              value: "Lanai Screen",              title: "Damage Repair",              description: "Professional restoration and reinforcement",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773166333865-qv7biwyu.jpg",              imageAlt: "renovated lanai screening area"
+              id: "2",              value: "Lanai Screen",              title: "Damage Repair",              description: "Professional restoration and reinforcement",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773166333865-qv7biwyu.jpg?_wi=2",              imageAlt: "renovated lanai screening area"
             },
             {
-              id: "3",              value: "Storm Prep",              title: "Hurricane Screening",              description: "Installation of protective screen systems",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773089720919-8mmoxn7n.png",              imageAlt: "hurricane screen installation Florida"
+              id: "3",              value: "Storm Prep",              title: "Hurricane Screening",              description: "Installation of protective screen systems",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773089720919-8mmoxn7n.png?_wi=2",              imageAlt: "hurricane screen installation Florida"
             },
             {
-              id: "4",              value: "Patio Screen",              title: "Door Repair",              description: "Hinge replacement and frame restoration",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773166248874-ivpdjy3u.jpg",              imageAlt: "lanai screen replacement project"
+              id: "4",              value: "Patio Screen",              title: "Door Repair",              description: "Hinge replacement and frame restoration",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AiruCR7xtXa8HIbr52voHdY3BQ/uploaded-1773166248874-ivpdjy3u.jpg?_wi=2",              imageAlt: "lanai screen replacement project"
             },
           ]}
           animationType="slide-up"
