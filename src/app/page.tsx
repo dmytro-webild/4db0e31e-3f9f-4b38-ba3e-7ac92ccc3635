@@ -64,7 +64,7 @@ export default function LandingPage() {
           tagAnimation="slide-up"
           negativeCard={{
             items: [
-              "Damaged or torn screens",              "Corroded aluminum frames",              "Broken door hinges",              "Water leaks and seal failures"
+              "Damaged or torn screens",              "Corroded aluminum frames",              "Broken door hinges",              "Bad Quality materials "
             ],
           }}
           positiveCard={{
