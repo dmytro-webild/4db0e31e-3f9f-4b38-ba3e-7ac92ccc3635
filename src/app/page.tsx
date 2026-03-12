@@ -31,7 +31,7 @@ export default function LandingPage() {
             { name: "Services", id: "services" },
             { name: "Why Us", id: "about" },
             { name: "Gallery", id: "/gallery" },
-            { name: "Testimonials", id: "testimonials" },
+            { name: "Testimonials", id: "/testimonials" },
             { name: "Contact", id: "/contact" },
           ]}
         />
@@ -173,7 +173,7 @@ export default function LandingPage() {
               title: "Company",              items: [
                 { label: "About Us", href: "#about" },
                 { label: "Projects", href: "/gallery" },
-                { label: "Testimonials", href: "#testimonials" },
+                { label: "Testimonials", href: "/testimonials" },
                 { label: "Contact", href: "/contact" },
               ],
             },

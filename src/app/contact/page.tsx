@@ -8,7 +8,8 @@ import FooterBaseReveal from "@/components/sections/footer/FooterBaseReveal";
 
 export default function ContactPage() {
   const [formData, setFormData] = useState({
-    name: "",    email: "",    phone: "",    message: ""});
+    name: "",    email: "",    phone: "",    message: ""
+  });
 
   const [submitted, setSubmitted] = useState(false);
 
@@ -25,14 +26,16 @@ export default function ContactPage() {
     try {
       const response = await fetch("/api/contact", {
         method: "POST",        headers: {
-          "Content-Type": "application/json"},
+          "Content-Type": "application/json"
+        },
         body: JSON.stringify(formData),
       });
 
       if (response.ok) {
         setSubmitted(true);
         setFormData({
-          name: "",          email: "",          phone: "",          message: ""});
+          name: "",          email: "",          phone: "",          message: ""
+        });
         setTimeout(() => setSubmitted(false), 5000);
       }
     } catch (error) {
@@ -60,7 +63,7 @@ export default function ContactPage() {
             { name: "Services", id: "services" },
             { name: "Why Us", id: "about" },
             { name: "Gallery", id: "/gallery" },
-            { name: "Testimonials", id: "testimonials" },
+            { name: "Testimonials", id: "/testimonials" },
             { name: "Contact", id: "/contact" },
           ]}
         />
@@ -174,7 +177,7 @@ export default function ContactPage() {
               title: "Company",              items: [
                 { label: "About Us", href: "/#about" },
                 { label: "Projects", href: "/gallery" },
-                { label: "Testimonials", href: "/#testimonials" },
+                { label: "Testimonials", href: "/testimonials" },
                 { label: "Contact", href: "/contact" },
               ],
             },
