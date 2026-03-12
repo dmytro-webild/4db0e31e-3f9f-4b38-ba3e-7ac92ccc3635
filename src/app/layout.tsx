@@ -20,14 +20,14 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  title: 'American Screen Hero',  description: "Professional pool cage repair, rescreening, and screen installation in Sarasota, Lakewood Ranch, and Bradenton. Free estimates, quality service, local experts.",  keywords: "pool cage repair, screen repair, rescreening, lanai screen, sarasota florida, pool enclosure, patio screen",  robots: {
+  title: 'Pool Cage & Screen Repair Sarasota | American Screen Hero',  description: "Professional pool cage repair, rescreening, and screen installation in Sarasota, Lakewood Ranch, and Bradenton. Free estimates, quality service, local experts.",  keywords: "pool cage repair, screen repair, rescreening, lanai screen, sarasota florida, pool enclosure, patio screen",  robots: {
     index: true,
     follow: true,
   },
   openGraph: {
-    title: 'American Screen Hero',    description: "Professional screen repair and rescreening services for Southwest Florida homes.",    siteName: "American Screen Hero",    type: "website"},
+    title: 'Pool Cage & Screen Repair Sarasota | American Screen Hero',    description: 'Professional pool cage repair, rescreening, and screen installation in Sarasota, Lakewood Ranch, and Bradenton. Free estimates, quality service, local experts.',    siteName: "American Screen Hero",    type: "website"},
   twitter: {
-    card: "summary_large_image",    title: 'American Screen Hero',    description: "Expert pool cage repair and rescreening in Sarasota, Lakewood Ranch, Bradenton"},
+    card: "summary_large_image",    title: 'Pool Cage & Screen Repair Sarasota | American Screen Hero',    description: 'Professional pool cage repair, rescreening, and screen installation in Sarasota, Lakewood Ranch, and Bradenton. Free estimates, quality service, local experts.'},
 };
 
 export default function RootLayout({
